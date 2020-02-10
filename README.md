@@ -3,7 +3,7 @@ created for CSCE 315 Programming Studio class
 
 To play Kalah download this repository on your desktop and navigate to the folder in a terminal and perform the following commands
 
-*to play against a player on a different computer must first initialize the server on one computer before the second player connects*
+*to play against a player on a different computer must first initialize the server on one computer before the second player connects, this is not needed if playing on a single computer*
 
 Server Side:
 
